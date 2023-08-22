@@ -1,4 +1,4 @@
-- I'm a third-year undergraduate at IIT Delhi, India
+- I'm a fourth-year undergraduate at IIT Delhi, India
 - I'm majoring in Computer Science and Engineering
 
 <!---
